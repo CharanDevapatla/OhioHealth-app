@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "D0QRHzv7+zD18scTYdmgCkXfOhaNDIEkt3bpIIsJOrU=",
+  "Source": "OhioHealthAssessment",
+  "BasePath": "_content/OhioHealthAssessment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

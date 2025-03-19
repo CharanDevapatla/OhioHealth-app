@@ -1,0 +1,70 @@
+/* UserForm.css */
+
+/* Center the form vertically and horizontally */
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0; /* Light background */
+  }
+  
+  .form-container {
+    width: 350px;
+    background-color: #5A6A91;
+    padding: 20px;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+    text-align: left;
+  }
+  
+  .form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #d1d1d1;
+  }
+  
+  .button-group {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+  }
+  
+  .save-btn, .retrieve-btn {
+    background-color: #0b3d91;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .save-btn:hover, .retrieve-btn:hover {
+    background-color: #092c6a;
+  }
+  
+  .save-btn {
+    margin-right: 10px;
+  }
+  
+  .retrieve-btn {
+    margin-left: 10px;
+  }
+  
