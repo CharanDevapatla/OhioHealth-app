@@ -23,12 +23,12 @@ This project is a full-stack web application consisting of:
 ---
 
 ## ** My Approach to Solving the Project**
-### **1️⃣ Understanding the Requirements**
+### ** Understanding the Requirements**
 - Read the project description carefully.
 - Identified the required API endpoints.
 - Planned how the React frontend would communicate with the .NET backend.
 
-### **2️⃣ Setting Up the Backend (.NET)**
+### ** Setting Up the Backend (.NET)**
 - Created a **new .NET Web API project** in Visual Studio.
 - Set up **Entity Framework Core** to interact with the SQL database.
 - Created the **User model** and **DbContext** for database operations.
@@ -38,7 +38,7 @@ This project is a full-stack web application consisting of:
 - Added **API key validation** to secure endpoints.
 - Tested API using **Postman** and **Swagger**.
 
-### **3️⃣ Setting Up the Frontend (React)**
+### ** Setting Up the Frontend (React)**
 - Created a **new React project** (`create-react-app`).
 - Built a **UserForm component** to handle:
   - Form inputs for user details.
@@ -48,7 +48,7 @@ This project is a full-stack web application consisting of:
 - Styled the UI to match the given design.
 
 
-### **5️⃣ Hosting & Deployment**
+### ** Hosting & Deployment**
 - Pushed the entire project to **GitHub** for submission.
 - Verified that both **frontend** and **backend** are correctly stored in the repository.
 
